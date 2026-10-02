@@ -17,7 +17,7 @@ Instal·lar el navegador Google Chrome en un ordinador.
 4. Executar l'instal·lador.
 5. Esperar que finalitzi la instal·lació.
 
-![Instal·lació de Google Chrome](img/chrome.png)
+![Instal·lació de Google Chrome](img/installchrome.png)
 
 ## Comprovacions
 
